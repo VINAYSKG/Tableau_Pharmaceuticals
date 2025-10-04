@@ -1,1 +1,2 @@
 # Pharmaceuticals
+This pharmaceutical dashboard offers a 360-degree view of operations. It tracks drug sales and demand (with top drugs earning over $200K), manages an R&D pipeline projecting 81 candidates by 2026, and monitors adverse reactions for patient safety. The solution integrates key data to drive strategic decisions on inventory, R&D, and regulatory compliance, optimizing overall business performance.
